@@ -1,0 +1,13 @@
+# Dependency directories
+node_modules/
+
+# Environment variables
+.env
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+
+# Ignore specific files or folders
+config/secrets.js # Example: If you have sensitive files in config
